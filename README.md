@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @potedejugo
+- 👀 I’m interested in learning everything i can
+- 🌱 I’m currently learning Python and JavaScript
+- 💞️ I’m looking to collaborate on web developing projects
+- 📫 How to reach me: louisdanielsoncaldwell@gmail.com
